@@ -1,0 +1,3 @@
+Synthetic Financial Datasets For Fraud Detection_1 --> https://www.kaggle.com/datasets/ealaxi/paysim1
+CreditCardFraud_2 --> https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+CreditCardFraud_PCA_Data_3 --> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
